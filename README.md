@@ -16,7 +16,7 @@ Ninjamania is an exhilarating 2D platformer game crafted in Java, offering playe
 
 2. Set up your Java development environment.
 
-3. Compile and run the game using your preferred IDE or command line.(Intellij Idea recommended)
+3. Compile and run the login page the game using your preferred IDE or command line.(Intellij Idea recommended)
 
 ## Controls
 
